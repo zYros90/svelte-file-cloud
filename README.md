@@ -4,5 +4,5 @@ This started from just playing with svelte demo template to creating a UI for a 
 
 It uses the [go boilerplate backend](https://github.com/zyros90/go-boilerplate-v1) for user creation and login
 
-![](/images/svelte-cloud.gif)
+![](./svelte-cloud.gif)
 
